@@ -8,7 +8,6 @@ This repository contains my solutions to CodeForces problems compiled from vario
 - **Algorithms**: Implementations of sorting, searching, dynamic programming, graph traversal, etc.
 - **Problem Sets**: Directories for specific CodeForces contest problems or practice sets.
 
-Each folder typically includes codes written in multiple languages (e.g., C++, Python, Java) and may have additional resources like problem statements or links to the original problems on CodeForces.
+The repository includes codes written in C++ language and may have additional resources like problem statements or links to the original problems on CodeForces.
 
 Feel free to explore for learning, reference, or personal use!
-
